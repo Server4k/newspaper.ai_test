@@ -2,12 +2,12 @@
 .newspaper-tittle {
     color: #ffffff;
     font-weight: bold;
-    font-family: Cambria;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     padding: 10px;
     margin-left: 50px;
     margin-right: 50px;
-    margin-bottom: 25px;
+    margin-bottom: 5px;
     margin-top: 25px;
     background-color: #3b3b3b;
     border: 1px;
@@ -62,4 +62,17 @@
 }
 .news {
     text-align: justify;
+}
+
+.search {
+    text-align: center;
+    width: 80%;
+    border-color: #3b3b3b;
+    border-width: 0.5px;
+}
+.search-div {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 0px;
+        
 }
